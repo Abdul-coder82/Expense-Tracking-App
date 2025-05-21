@@ -31,7 +31,7 @@ For monthly reports, input format is: `MM-YYYY`
 
 - **Abdul Hameed**  
 - BS Computer Science (Pakistan)  
-- GitHub: [Abdul-coder82](https://github.com/Abdul-coder82)
+- GitHub: [abdulbuilds](https://github.com/abdulbuilds)
 
 ## 💡 How to Run
 
