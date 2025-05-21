@@ -8,8 +8,11 @@ This is a C++ console-based Expense Tracking Application developed as part of a 
 - Edit or delete any expense using its unique ID
 - Display all stored expenses
 - Generate reports:
+  - General Report 
   - Highest expense
-  - Monthly report by year-month (e.g. `2024-05`)
+  - Lowest Expense
+  - Date-wise Filtering
+  - Monthly report by month-Year (e.g. `05-2025`)
 - Uses singly linked lists (custom implementation)
 - Master list stores heads of all expense entries
 
@@ -28,7 +31,7 @@ For monthly reports, input format is: `MM-YYYY`
 
 - **Abdul Hameed**  
 - BS Computer Science (Pakistan)  
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [Abdul-coder82](https://github.com/Abdul-coder82)
 
 ## 💡 How to Run
 
